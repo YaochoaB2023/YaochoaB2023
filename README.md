@@ -1,5 +1,7 @@
-### Hi there 👋
 <img src="https://github.com/YaochoaB2023/YaochoaB2023/assets/127530521/c2da728c-fefb-40cd-a4d1-33d43a91eced" width="100%"/>
+<div align="center"><h1>I'm <span style="color:blue;">software developer</span><h1/></div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YaochoaB2023&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
+
 <!--
 **YaochoaB2023/YaochoaB2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
