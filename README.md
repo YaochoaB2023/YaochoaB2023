@@ -4,16 +4,17 @@
 
 -----
   
-<div style="display: flex; justify-content: space-between;">
+<div>
   
-  ### My GitHub Streak Stats
+
+### My GitHub Streak Stats
   [![GitHub Streak](https://streak-stats.demolab.com?user=YaochoaB2023&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
   
 -----
 
-  ### My GitHub Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaochoaB2023&theme=blue-green&show_icons=true)
-
+### My GitHub Stats
+  ![yeison GitHub stats](https://github-readme-stats.vercel.app/api?username=YaochoaB2023&theme=blue-green&show_icons=true)
 </div>
 
 
