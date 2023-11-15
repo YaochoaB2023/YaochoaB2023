@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/YaochoaB2023/YaochoaB2023/assets/127530521/c2da728c-fefb-40cd-a4d1-33d43a91eced" width="100%"/>
 <!--
 **YaochoaB2023/YaochoaB2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
